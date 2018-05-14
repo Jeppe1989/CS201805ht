@@ -14,14 +14,43 @@ namespace DebugDemo
 
             Console.WriteLine("Test");
 
+            int i = 10;
+            i++;
+            i = i * 2; // i *=2;
+
+            for (int x = 0; x < 10; x++)
+            {
+                if (x<5)
+                {
+                    Console.WriteLine("mindre end fem");
+                }
+                else
+                {
+                    Console.WriteLine("fem eller større");
+                }
+            }
+
+            A();
+
             if (System.Diagnostics.Debugger.IsAttached)
             {
+                Console.WriteLine("Tryk en tast");
                 Console.ReadKey();
             }
 
             Console.ReadKey();
 
 
+        }
+
+        static void A() {
+            B();
+        }
+        static void B() {
+            C();
+        }
+        static void C() {
+            Console.WriteLine("I c");
         }
     }
 }
