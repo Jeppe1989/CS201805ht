@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave 7 - Beregn Array", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave 8 - Rekursion", "Opgave 8 - Rekursion\Opgave 8 - Rekursion.csproj", "{46BBAE5B-488C-4BE3-8526-2E1243FB9256}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave 9 - Simpel klasse", "Opgave 9 - Simpel klasse\Opgave 9 - Simpel klasse.csproj", "{56582D72-034C-4B6E-9F17-26DC4FBAFFE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{46BBAE5B-488C-4BE3-8526-2E1243FB9256}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46BBAE5B-488C-4BE3-8526-2E1243FB9256}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46BBAE5B-488C-4BE3-8526-2E1243FB9256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56582D72-034C-4B6E-9F17-26DC4FBAFFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56582D72-034C-4B6E-9F17-26DC4FBAFFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56582D72-034C-4B6E-9F17-26DC4FBAFFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56582D72-034C-4B6E-9F17-26DC4FBAFFE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
