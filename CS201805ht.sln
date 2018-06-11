@@ -29,6 +29,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave 8 - Rekursion", "Opg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave 9 - Simpel klasse", "Opgave 9 - Simpel klasse\Opgave 9 - Simpel klasse.csproj", "{56582D72-034C-4B6E-9F17-26DC4FBAFFE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{CFE1EDEA-F739-4585-B927-37EFE40820A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compare", "Compare\Compare.csproj", "{04FC2EAB-597F-48DE-BD9D-EE077A190751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using", "Using\Using.csproj", "{C7A3A97F-0F76-4854-AAC6-DE920A85C39C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection", "Collection\Collection.csproj", "{21A2C838-5122-48B4-A99B-1203EED2ED88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection - Spillekort", "Collection - Spillekort\Collection - Spillekort.csproj", "{945668A8-AC0E-449A-8C3D-BAECF536D090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generisk metode", "Generisk metode\Generisk metode.csproj", "{A2393EF4-A229-43C4-A4EA-A8361CD03F8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +99,30 @@ Global
 		{56582D72-034C-4B6E-9F17-26DC4FBAFFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56582D72-034C-4B6E-9F17-26DC4FBAFFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56582D72-034C-4B6E-9F17-26DC4FBAFFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFE1EDEA-F739-4585-B927-37EFE40820A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE1EDEA-F739-4585-B927-37EFE40820A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE1EDEA-F739-4585-B927-37EFE40820A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE1EDEA-F739-4585-B927-37EFE40820A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04FC2EAB-597F-48DE-BD9D-EE077A190751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FC2EAB-597F-48DE-BD9D-EE077A190751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FC2EAB-597F-48DE-BD9D-EE077A190751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FC2EAB-597F-48DE-BD9D-EE077A190751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7A3A97F-0F76-4854-AAC6-DE920A85C39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A3A97F-0F76-4854-AAC6-DE920A85C39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A3A97F-0F76-4854-AAC6-DE920A85C39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A3A97F-0F76-4854-AAC6-DE920A85C39C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21A2C838-5122-48B4-A99B-1203EED2ED88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A2C838-5122-48B4-A99B-1203EED2ED88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A2C838-5122-48B4-A99B-1203EED2ED88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A2C838-5122-48B4-A99B-1203EED2ED88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{945668A8-AC0E-449A-8C3D-BAECF536D090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945668A8-AC0E-449A-8C3D-BAECF536D090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945668A8-AC0E-449A-8C3D-BAECF536D090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945668A8-AC0E-449A-8C3D-BAECF536D090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2393EF4-A229-43C4-A4EA-A8361CD03F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2393EF4-A229-43C4-A4EA-A8361CD03F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2393EF4-A229-43C4-A4EA-A8361CD03F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2393EF4-A229-43C4-A4EA-A8361CD03F8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
